@@ -1,0 +1,5 @@
+
+project_dbt/target/
+project_dbt/dbt_packages/
+logs/
+.dbt_venv/
