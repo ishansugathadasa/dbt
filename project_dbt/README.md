@@ -47,3 +47,11 @@ https://docs.getdbt.com/docs/cloud/about-develop-dbt
 # for init git
 git init
 
+git add . 
+
+git commit -m "initial commit"
+
+git remote add origin https://github.com/ishansugathadasa/dbt.git
+
+
+
